@@ -5,9 +5,5 @@ export const metadata = {
 };
 
 export default function InvoicesPage() {
-    return (
-        <main>
-            InvoicesPage
-        </main>
-    );
+  return <main>InvoicesPage</main>;
 }
